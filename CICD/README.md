@@ -1,4 +1,4 @@
-CI/CD in DevOps is one of the most important concepts — and I’ll explain it in a way you will **never forget**.
+
 
 ---
 
@@ -140,4 +140,3 @@ Because it helps to:
 
 ---
 
-If you want, I can explain CI/CD using a **real DevOps pipeline example with Jenkins/GitHub Actions** so it becomes 100% clear.
